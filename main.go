@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ultralist/ultralist/cmd"
+	"ultralist/cmd"
 )
 
 func main() {
