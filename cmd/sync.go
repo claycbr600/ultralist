@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"ultralist/ultralist"
+	"github.com/claycbr600/ultralist/ultralist"
 )
 
 var (
